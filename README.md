@@ -9,3 +9,4 @@ Test list:
 6. Grey
 7. Orange
 8. Magenta
+9. Hazel
