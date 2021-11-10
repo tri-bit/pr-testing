@@ -8,3 +8,4 @@ Test list:
 5. Purple
 6. Grey
 7. Orange
+8. Magenta
