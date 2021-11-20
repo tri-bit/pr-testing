@@ -2,13 +2,8 @@
 
 Test list:
 1. Blue
-2. Green
-3. Red
-4. Yellow
-5. Purple
-6. Grey
-7. Orange
-8. Magenta
-9. Hazel
-10. Azul
-14. Sage
+2. Orange
+3. Magenta
+4. Hazel
+5. Azul
+6. Sage
